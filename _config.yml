@@ -1,5 +1,5 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: sproogen/modern-resume-theme
 favicon: images/favicon.ico # Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
@@ -35,28 +35,29 @@ about_content: | # this will include new lines to allow paragraphs
     - Links
     - Images
 
-# Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
-
-# Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
-
-# Education Section
-# education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
+more_title: Research Interests #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
   Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
+# Education Section
+education_title: Education #(Use this to override about education section title)
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+experience_title: Academic Experience #(Use this to override about experience section title)
 
 # Footer
 footer_show_references: true
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+remote_theme: sproogen/modern-resume-theme # (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
