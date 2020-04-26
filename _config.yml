@@ -35,7 +35,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Machine Learning
     - Natural Language Processing
     
-<[CV](https://joongbo.github.io/cv.pdf)><[Google Scholar](https://scholar.google.com/citations?user=xzJSvJcAAAAJ&hl=en)>
+  <mark>[CV](https://joongbo.github.io/cv.pdf)</mark><mark>[Google Scholar](https://scholar.google.com/citations?user=xzJSvJcAAAAJ&hl=en)</mark>
 
 # More Section
 more_title: Publication #(Use this to override about more section title)
