@@ -27,11 +27,11 @@ github_username:  joongbo
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/jb.png
 about_content: | # this will include new lines to allow paragraphs
-  Education
+  <span style='font-size: 30px'>Education</style>
     - PhD student in Seoul National University
     - BS in Yonsei University
 
-  Research Interest
+  <span style='font-size: 30px'>Research Interest</style>
     - Machine Learning
     - Natural Language Processing
     
