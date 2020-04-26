@@ -31,16 +31,23 @@ about_content: | # this will include new lines to allow paragraphs
     - PhD student in Seoul National University, Electrical and Computer Engineering (2020 expected)
     - BS in Yonsei University, Electrical and Computer Engineering (2013)
 
+
   #### Research Interest
     - Machine Learning
     - Natural Language Processing
-    
+
+
   [<mark>CV</mark>](https://joongbo.github.io/cv.pdf) [<mark>Google Scholar</mark>](https://scholar.google.com/citations?user=xzJSvJcAAAAJ&hl=en)
 
 # More Section
-more_title: Publication #(Use this to override about more section title)
+more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  J Shin, Y Lee, S Yoon and K Jung, “Fast and Accurate Deep Bidirectional Language Representations for Unsupervised Learning” to appeal in Annual Meeting of the Association for Computational Linguistics (ACL), 2020.
+  6. J Shin, Y Lee, S Yoon and K Jung, ["Fast and Accurate Deep Bidirectional Language Representations for Unsupervised Learning"](https://arxiv.org/abs/2004.08097) to appeal in Annual Meeting of the Association for Computational Linguistics (ACL), 2020.
+  5. J Shin, Y Lee and K Jung, ["Effective Sentence Scoring Method Using BERT for Speech Recognition"]() in Asian Conference on Machine Learning (ACML), 2019.
+  4. Y Kim, H Lee, J Shin, K Jung, ["Improving neural question generation using answer separation"]() in Proc. of the AAAI Conference on Artificial Intelligence (AAAI), 2019.
+  3. S Yoon, K Park, J Shin, H Lim, S Won, M Cha, K Jung, ["Detecting Incongruity Between News Headline and Body Text via a Deep Hierarchical Encoder"]() in Proc. of the AAAI Conference on Artificial Intelligence (AAAI), 2019.
+  2. S Yoon, J Shin, K Jung, ["Learning to Rank Question-Answer Pairs using Hierarchical Recurrent Encoder with Latent Topic Clustering"]() in Proc. of Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2018.
+  1. J Shin, Y Kim, S Yoon, K Jung, ["Contextual-CNN: A Novel Architecture Capturing Unified Meaning for Sentence Classification"]() in Proc of the IEEE International Conference on Big Data and Smart Computing (BigComp), 2018.
 
 # Education Section
 # education_title: Education #(Use this to override about education section title)
