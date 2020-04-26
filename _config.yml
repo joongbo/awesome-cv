@@ -26,17 +26,17 @@ github_username:  joongbo
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/jb.png
-about_content: | # this will include new lines to allow paragraphs
+about_content: |+ # this will include new lines to allow paragraphs
   #### Education
     - PhD student in Seoul National University, Electrical and Computer Engineering (2020 expected)
     - BS in Yonsei University, Electrical and Computer Engineering (2013)
   
-  \n
+  
   #### Research Interest
     - Machine Learning
     - Natural Language Processing
 
-  \n
+  
   [<mark>CV</mark>](https://joongbo.github.io/cv.pdf) [<mark>Google Scholar</mark>](https://scholar.google.com/citations?user=xzJSvJcAAAAJ&hl=en)
 
 # More Section
