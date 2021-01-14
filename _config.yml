@@ -45,7 +45,7 @@ about_content: |+ # this will include new lines to allow paragraphs
 more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   [7] Y Lee, **J Shin**, K Jung, 
-  ["Bidirectional Variational Inference for Non-autoregressive Text-to-Speech"](https://www.aclweb.org/anthology/2020.acl-main.76.pdf) 
+  ["Bidirectional Variational Inference for Non-Autoregressive Text-to-Speech"](https://openreview.net/pdf?id=o3iritJHLfO) 
   to appeal in *International Conference on Learning Representations (ICLR)*, 2021.
   
   [6] **J Shin**, Y Lee, S Yoon, K Jung, 
