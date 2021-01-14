@@ -44,11 +44,15 @@ about_content: |+ # this will include new lines to allow paragraphs
 # More Section
 more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  [6] **J Shin**, Y Lee, S Yoon and K Jung, 
-  ["Fast and Accurate Deep Bidirectional Language Representations for Unsupervised Learning"](https://www.aclweb.org/anthology/2020.acl-main.76.pdf) 
-  to appeal in *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2020.
+  [7] Y Lee, **J Shin**, K Jung, 
+  ["Bidirectional Variational Inference for Non-autoregressive Text-to-Speech"](https://www.aclweb.org/anthology/2020.acl-main.76.pdf) 
+  to appeal in *International Conference on Learning Representations (ICLR)*, 2021.
   
-  [5] **J Shin**, Y Lee and K Jung, 
+  [6] **J Shin**, Y Lee, S Yoon, K Jung, 
+  ["Fast and Accurate Deep Bidirectional Language Representations for Unsupervised Learning"](https://www.aclweb.org/anthology/2020.acl-main.76.pdf) 
+  in *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2020.
+  
+  [5] **J Shin**, Y Lee, K Jung, 
   ["Effective Sentence Scoring Method Using BERT for Speech Recognition"](http://milab.snu.ac.kr/pub/shin19a.pdf)
   in *Asian Conference on Machine Learning (ACML)*, 2019.
   
