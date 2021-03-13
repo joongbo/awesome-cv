@@ -30,7 +30,7 @@ about_content: |+ # this will include new lines to allow paragraphs
   I love Coffee, Surfing, Singing, and Photography.
   
   #### Education
-    - PhD student in Seoul National University, Electrical and Computer Engineering (2021 expected)
+    - PhD student in Seoul National University, Electrical and Computer Engineering (2021)
     - BS in Yonsei University, Electrical and Computer Engineering (2013)
   
   
@@ -44,6 +44,10 @@ about_content: |+ # this will include new lines to allow paragraphs
 # More Section
 more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
+  [8] H Lee, S Yoon, F Dernoncourt, D Kim, T Bui, **J Shin**, K Jung, 
+  ["KPQA: A Metric for Generative Question Answering Using Keyphrase Weights"](https://arxiv.org/abs/2005.00192)
+  to appeal in *Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)*, 2021.
+  
   [7] Y Lee, **J Shin**, K Jung, 
   ["Bidirectional Variational Inference for Non-Autoregressive Text-to-Speech"](https://openreview.net/pdf?id=o3iritJHLfO) 
   to appeal in *International Conference on Learning Representations (ICLR)*, 2021.
